@@ -8,9 +8,7 @@ O mercado de telefonia móvel no Brasil é caracterizado por grande número de e
 
 As maiores são Vivo, Tim, Claro e Oi, onde se observa uma pequena variação da Tim e da Claro no segundo lugar, considerando o período total analisado, entre 2015 e 2020. A grande maioria das empresas são pequenas, pouco concorrem entre se e se mantêm com uma ínfima fatia do mercado.	
 
-<div align=”center”>![Screenshot](graf_1.PNG)</div>
-
-<div align=”center”>![Screenshot](graf_2.PNG)</div>
+![Screenshot](graf_1.PNG)
 
 * Razão de Concentração
 
@@ -39,3 +37,5 @@ Este índice foi de 1.51, e apenas confirma a concentração e a condição de o
 * Conclusão:
 
 Os dados analisados confirmam a forte monopolização do mercado de telefonia móvel no país, onde as barreiras a entrada de características técnicas e institucionais, impedem a entrada de empresas que possam concorrer com as empresas já estabelecidas. O impedimento de entrada de novas firmas, a desigualdade na participação do mercado, limitam o crescimento concorrencial e a produtividade da indústria, o que  mantêm o poder de mercado nas mãos das gigantes e impede o desenvolvimento geral do setor. 
+
+![Screenshot](graf_2.PNG)
