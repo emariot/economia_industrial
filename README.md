@@ -1,8 +1,8 @@
 # Economia Industrial
 Repositório criado para análise dos índices de concentração da indústria de telefonia móvel entre 2015 e 2020.
 
-###Fonte de Dados: https://www.anatel.gov.br/paineis/acessos/ranking
-###Acesse análise => market_share_telefoniaMovel.ipynb
+### Fonte de Dados: https://www.anatel.gov.br/paineis/acessos/ranking
+### Acesse análise => market_share_telefoniaMovel.ipynb
 
 O mercado de telefonia móvel no Brasil é caracterizado por grande número de empresas pequenas, com 4 principais dominando quase 97% do mercado, o que significa uma indústria fortemente oligopolizada.
 
